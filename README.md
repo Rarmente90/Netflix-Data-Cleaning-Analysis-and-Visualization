@@ -80,5 +80,4 @@ El dataset presentaba problemas comunes como valores nulos, duplicados y formato
 Para dudas o sugerencias, puedes contactarme en:
 
 - ✉️ Email: rmartinez28590@gmail.com  
-- 🔗 LinkedIn: [tu-linkedin]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/rafael-armenteros-mart%C3%ADnez-371447151/?originalSubdomain=es))
-
+- 🔗 LinkedIn: [Rafael Armenteros Martínez]([[https://url-del-enlace.com](https://url-del-enlace.com)](https://www.linkedin.com/in/rafael-armenteros-mart%C3%ADnez-371447151/?originalSubdomain=es))
