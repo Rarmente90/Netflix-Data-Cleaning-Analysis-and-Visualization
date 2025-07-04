@@ -73,3 +73,12 @@ El dataset presentaba problemas comunes como valores nulos, duplicados y formato
 ## 📁 Estructura del Proyecto
 
 
+---
+
+## 📬 Contacto
+
+Para dudas o sugerencias, puedes contactarme en:
+
+- ✉️ Email: rmartinez28590@gmail.com  
+- 🔗 LinkedIn: [tu-linkedin]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/rafael-armenteros-mart%C3%ADnez-371447151/?originalSubdomain=es))
+
